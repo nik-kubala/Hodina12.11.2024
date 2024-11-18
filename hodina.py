@@ -86,4 +86,3 @@ while i > 0:
     i = i - 1
     z = m[i::]
     print(z)
-.
